@@ -1,0 +1,18 @@
+let score=94;
+
+if(score >=90)
+{
+    console.log("Grade: A");
+if(score>=95)
+{
+    console.log("Grade: A+");
+}
+else if(score >90)
+{
+    console.log("Grade: AB");
+}
+}
+else
+{
+    console.log("Grade: B");
+}

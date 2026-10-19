@@ -1,0 +1,23 @@
+{
+  "name": "learnjstsplaywright4x",
+  "version": "1.0.0",
+  "description": "A hands-on test automation and QA repository covering Playwright, AI prompt engineering frameworks (RICE-POT QA Framework), and JavaScript automation essentials.",
+  "homepage": "https://github.com/SukhmaniJolly/PlaywrightwithAI#readme",
+  "bugs": {
+    "url": "https://github.com/SukhmaniJolly/PlaywrightwithAI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukhmaniJolly/PlaywrightwithAI.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
